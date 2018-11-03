@@ -1,4 +1,7 @@
 from django.db import models
+from django.db.models import Q
+
+
 import datetime as dt
 
 # Create your models here.
@@ -40,8 +43,10 @@ class Image(models.Model):
     def all_images(cls):
         images = cls.objects.all()
         return images
-        
+
     @classmethod
     def search_by_category(cls,search_term):
-        images = cls.objects.filter(categories__icontains=search_term)
+        # images = cls.objects.filter(categories__icontains=search_term)
+        images = cls.objects.filter(Q(categories__category=search_term) | Q(title__icontains=search_term) | Q(location__location=search_term))
+
         return images
