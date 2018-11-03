@@ -1,0 +1,12 @@
+/* @import url('/images/static/css/Cormorant_Garamond/CormorantGaramond-Italic'); */
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Cormorant+Garamond|EB+Garamond|Karma|Neucha|Overlock|Tangerine');
+
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+
+h1{
+  font-size: 40px;
+  font-family: 'Tangerine', cursive;
+}
