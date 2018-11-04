@@ -37,11 +37,10 @@
         <h3 class="modal-title" id="exampleModalLongTitle">{{image.title}}</h3>
         <h4 class="modal-title">{{image.location}}</h4>
         <h5 class="modal-title">{{image.post_date}}</h5>
-        <h5 class="modal-title">{{image.image.path}}</h5>
 
 
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
+          <!-- <span aria-hidden="true">&times;</span> -->
         </button>
       </div>
 
@@ -61,7 +60,7 @@
         <!-- Target -->
         <div class="form-group row">
           <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-            <input id="t1"  class="form-control input-md" type="text" value="{{image.image.url}} {{image.image.path}}">
+            <input id="t1"  class="form-control input-md responsive" type="text" value="{{image.image.url}} {{image.image.path}}">
           </div>
 
 
@@ -78,7 +77,6 @@
       </div>
     </div>
   </div>
-
 </div>
 
   {% endfor %}
