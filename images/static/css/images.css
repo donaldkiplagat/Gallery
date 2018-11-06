@@ -33,6 +33,11 @@ h5{
   font-size: 20px;
   font-family: 'Overlock', cursive;
 }
+a{
+  color:grey;
+  font-family: 'Cormorant Garamond', serif;
+
+}
 body,html{
   height:100%;
 }
