@@ -8,10 +8,9 @@ By: Donald Kiplagat
 This web-app allows the user to view teh admin's images while allowing the admin to add the images according with the following attributes: Location and Category.
 
 ## Setup/Installation Requirements
-* Live site can be accessed from the following link https://blog-donald.herokuapp.com/
+* Live site can be accessed from the following link https://gallery-donald.herokuapp.com/
 * Pre-configured Admin details are:
-Email: donald.k.kiplagat@gmail.com
-Password: donald
+Password: halowars54611
 Username: donaldkiplagat
 
 ### Known Bugs
