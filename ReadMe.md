@@ -27,10 +27,10 @@ Given:An image<br>
 When: User cicks on the image <br>
 Then: A modal with the image's details is displayed<br>
 
-* The program should abstract data<br>
-Given: A user's role is "User"<br>
-When: User logs in<br>
-Then: Admin features are not shown<br>
+* Admin site should be displayed when "admin/" url is chosen<br>
+Given: An admin url<br>
+When: User enters admin url in browser<br>
+Then: Admin Login is displayed<br>
 
 * Likes/Comments should be recorded and displayed to all the users<br>
 Given:A like/comment option is given<br>
