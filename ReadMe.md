@@ -22,10 +22,10 @@ Given:All images<br>
 When: Url is changed to home page<br>
 Then: All Images are displayed<br>
 
-* One should receive an email when signing up,subscribing and when a post is made<br>
-Given:A sign up/subscription/post feature<br>
-When: Email is validated <br>
-Then: Email is sent to the email registered with<br>
+* Modal should be displayed when the user clicks on any image and have the image's details<br>
+Given:An image<br>
+When: User cicks on the image <br>
+Then: A modal with the image's details is displayed<br>
 
 * The program should abstract data<br>
 Given: A user's role is "User"<br>
