@@ -1,7 +1,7 @@
 # Gallery
 
-This python web-app was created to emulate a blog and the different user types available.Developed during Moringa Core. This is Week 6's Independent Project.
-Date: 19th October 2018
+This python/django web-app was created in order to display my images in a gallery format.Developed during Moringa Core. This is Week 8's Independent Project.
+Date: 2nd November 2018
 By: Donald Kiplagat
 
 ## Description
