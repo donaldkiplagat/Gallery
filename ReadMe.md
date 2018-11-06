@@ -41,9 +41,8 @@ Then: User details are authenticated to confirm if user is an admin<br>
 ### Technologies Used
 * Atom was the source code editor of choice.
 * Git and Github were used as my local and online repositories respectively.
-* Flask was used as the micro-framework
+* Django was used as the framework of choice
 * Heroku was used in deploying the live site
-* Gmail was used as the email sender
 
 
 ### Support and contact details
