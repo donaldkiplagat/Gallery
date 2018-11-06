@@ -2,7 +2,6 @@ from django.test import TestCase
 from .models import Location,categories,Image
 import datetime as dt
 # Create your tests here.
-
 class LocationTestClass(TestCase):
     def setUp(self):
         self.Moringa = Location(location='Moringa')
