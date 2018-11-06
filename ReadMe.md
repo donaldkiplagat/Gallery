@@ -17,10 +17,10 @@ Username: donaldkiplagat
 Copy button comes out of modal in smaller screen sizes.
 
 ### Behaviour Driven Development
-* The program should return all posts on the home page<br>
-Given:All posts<br>
-When: View is changed to home page<br>
-Then: All Posts are displayed<br>
+* The program should return all images on the home page<br>
+Given:All images<br>
+When: Url is changed to home page<br>
+Then: All Images are displayed<br>
 
 * One should receive an email when signing up,subscribing and when a post is made<br>
 Given:A sign up/subscription/post feature<br>
