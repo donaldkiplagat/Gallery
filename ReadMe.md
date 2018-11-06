@@ -32,10 +32,10 @@ Given: An admin url<br>
 When: User enters admin url in browser<br>
 Then: Admin Login is displayed<br>
 
-* Likes/Comments should be recorded and displayed to all the users<br>
-Given:A like/comment option is given<br>
-When: User likes/comments a pitch <br>
-Then: The value is added to the number of likes/comments<br>
+* User authentication occurs when Admin tries to Login<br>
+Given:Admin page is accessed<br>
+When: User tries to login<br>
+Then: User details are authenticated to confirm if user is an admin<br>
 
 
 ### Technologies Used
