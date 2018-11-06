@@ -5,7 +5,7 @@ Date: 2nd November 2018
 By: Donald Kiplagat
 
 ## Description
-This web-app allows the user to view,comment and like blog posts.The admin can add/delete posts and delete comments.
+This web-app allows the user to view teh admin's images while allowing the admin to add the images according with the following attributes: Location and Category.
 
 ## Setup/Installation Requirements
 * Live site can be accessed from the following link https://blog-donald.herokuapp.com/
