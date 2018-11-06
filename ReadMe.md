@@ -14,7 +14,7 @@ Password: halowars54611
 Username: donaldkiplagat
 
 ### Known Bugs
-One can like as many times as possible,not once for each user as was intended
+Copy button comes out of modal in smaller screen sizes.
 
 ### Behaviour Driven Development
 * The program should return all posts on the home page<br>
