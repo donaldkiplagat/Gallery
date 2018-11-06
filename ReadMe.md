@@ -51,4 +51,4 @@ Then: User details are authenticated to confirm if user is an admin<br>
 
 ### License
 Moringa School
-Copyright (c)2018 **Blog by Yours Truly-Donald Kiplagat**
+Copyright (c)2018 **Gallery by Yours Truly-Donald Kiplagat**
